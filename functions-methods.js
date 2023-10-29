@@ -80,7 +80,7 @@ console.log(typeOfEmail2("a.wiersma@gmail.com"));
 // * Er een @ in voorkomt
 // * Er géén , in voorkomt
 // * Er géén . in voorkomt als allerlaatste karakter (dus hotmail.com is valide, net als outlook.nl, maar outlooknl. niet)
-// ---- Verwachte uitkomsten:
+// ---- Verwachte uitkomsten:git
 // checkEmailValidity("n.eeken@novi.nl") geeft true - want @ en punt op de juiste plek
 // checkEmailValidity("tessmellink@novi.nl") geeft true - want @ en punt op de juiste plek
 // checkEmailValidity("n.eekenanovi.nl") geeft false - want geen @
